@@ -1,8 +1,8 @@
 ---
-title: "Last One"
-date: 2016-12-17T15:04:10.000Z
+title: Last One
+date: 2023-06-22T23:16:53.918Z
 description: Fourh Blog
-image: /img/blog-flavor_wheel.jpg
+image: img/about-sustainable-farming.jpg
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
