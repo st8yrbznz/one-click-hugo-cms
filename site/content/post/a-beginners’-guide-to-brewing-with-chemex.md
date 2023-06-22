@@ -1,6 +1,6 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2023-06-22T23:17:40.934Z
+title: A beginners’ guide
+date: 2023-06-22T23:18:20.976Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
   soothing ritual that's worth the effort every time.
